@@ -1,0 +1,36 @@
+<!DOCTYPE html lang=>
+<html>
+
+	<head>
+		<title>2x FiquitoTV v3</title>
+		<meta http-equiv="refresh" content="180">
+<!--
+		<script type="text/javascript">
+			function Cerrar()
+				{
+					//window.open('', '_self', ''); window.close();
+					close();
+					window.alert("Cerrar");
+					//this.focus();
+					//self.opener = this;
+					//self.close();
+				}
+		</script>
+-->
+	</head>
+
+	<body bgcolor="#355570">
+		<a href=""> <img src="http://alficap2-1.ddns.net:42309/901/stream" alt="Cam01" border="0" width="49.6%"></a>
+		<a href=""> <img src="http://alficap2-1.ddns.net:42309/902/stream" alt="Cam02" border="0" width="49.6%"></a>
+		<br>
+    <a href=""> <img src="http://alficap2-1.ddns.net:42309/101/stream" alt="101" border="0" width="24.0%"></a>
+    <a href=""> <img src="http://alficap2-1.ddns.net:42309/201/stream" alt="201" border="0" width="24.0%"></a>
+    <a href=""> <img src="http://alficap2-1.ddns.net:42309/301/stream" alt="301" border="0" width="24.0%"></a>
+    <a href=""> <img src="http://alficap2-1.ddns.net:42309/401/stream" alt="401" border="0" width="24.0%"></a>
+    <a href=""> <img src="http://alficap2-1.ddns.net:42309/501/stream" alt="501" border="0" width="24.0%"></a>
+<!--
+		<button onclick="Cerrar()">Cerrar</button> 
+-->
+	</body>
+<!--	<a href=""> causa que el enlace del AnchorTag apunte al mismo html, causando un reload  -->
+</html>
